@@ -1,0 +1,64 @@
+{
+  "templates": {},
+  "history": [
+    {
+      "type": "whatsapp_direct",
+      "to": "+917671901101",
+      "message": "hello",
+      "timestamp": "2025-06-29T14:16:09.350447",
+      "status": "opened_whatsapp_web"
+    },
+    {
+      "type": "whatsapp_direct",
+      "to": "+91 7671901101",
+      "message": "sorry for last night",
+      "timestamp": "2025-06-29T14:17:48.766159",
+      "status": "opened_whatsapp_web"
+    },
+    {
+      "type": "whatsapp",
+      "to": "mummy",
+      "phone": "+916302846715",
+      "message": "hello",
+      "timestamp": "2025-06-29T15:02:08.936650",
+      "status": "opened_whatsapp_web"
+    },
+    {
+      "type": "whatsapp_direct",
+      "to": "+916302846715",
+      "message": "hello",
+      "timestamp": "2025-06-29T15:03:56.872915",
+      "status": "opened_whatsapp_web"
+    },
+    {
+      "type": "whatsapp",
+      "to": "mummy",
+      "phone": "+916302846715",
+      "message": "hello",
+      "timestamp": "2025-06-29T15:15:00.832351",
+      "status": "opened_whatsapp_web"
+    },
+    {
+      "type": "whatsapp",
+      "to": "mummy",
+      "phone": "+916302846715",
+      "message": "hello",
+      "timestamp": "2025-06-29T15:41:40.975917",
+      "status": "opened_whatsapp_web"
+    },
+    {
+      "type": "whatsapp_direct",
+      "to": "8801803583",
+      "message": "hello",
+      "timestamp": "2025-06-29T15:42:04.329275",
+      "status": "opened_whatsapp_web"
+    },
+    {
+      "type": "whatsapp_direct",
+      "to": "+918801803583",
+      "message": "hello",
+      "timestamp": "2025-06-29T15:42:48.734961",
+      "status": "opened_whatsapp_web"
+    }
+  ]
+}

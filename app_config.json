@@ -1,0 +1,12 @@
+{
+  "custom_apps": {
+    "my editor": "C:\\Program Files\\VS Code\\Code.exe",
+    "my game": "C:\\Games\\MyGame\\game.exe"
+  },
+  "aliases": {
+    "browser": "chrome",
+    "text editor": "notepad",
+    "music": "spotify",
+    "social": "facebook"
+  }
+}

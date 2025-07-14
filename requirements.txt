@@ -1,0 +1,7 @@
+requests
+customtkinter
+Pillow
+sounddevice
+soundfile
+pyttsx3
+markdown2

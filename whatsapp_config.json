@@ -1,0 +1,20 @@
+{
+  "contacts": {
+    "mummy": "+1234567890",
+    "dad": "+1234567891",
+    "mom": "+1234567892",
+    "home": "+1234567893",
+    "work": "+1234567894"
+  },
+  "default_recipient": "mummy",
+  "country_code": "+1",
+  "whatsapp_web_enabled": true,
+  "auto_send": false,
+  "message_templates": {
+    "greeting": "Hello! How are you?",
+    "goodbye": "Goodbye! Take care!",
+    "reminder": "Don't forget about our meeting!",
+    "location": "I'm at: ",
+    "status": "Status update: "
+  }
+}

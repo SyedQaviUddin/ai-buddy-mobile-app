@@ -1,0 +1,17 @@
+{
+  "name": "Qavi",
+  "history": [
+    {
+      "input": "write a blog on ai ",
+      "translated": "write a blog on ai "
+    },
+    {
+      "input": "write a blog on ai in notepad",
+      "translated": "write a blog on ai in notepad"
+    },
+    {
+      "input": "open chrome and search  how to remove tan on the face",
+      "translated": "open chrome and search  how to remove tan on the face"
+    }
+  ]
+}
